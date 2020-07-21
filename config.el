@@ -10,7 +10,7 @@
  display-line-numbers-type 'visual
  doom-font (font-spec :family "FuraCode Nerd Font" :size 14)
  doom-theme 'doom-gruvbox
- projectile-project-search-path '("~/Code/kid" "~/Code/kid/kidiTrade"))
+ projectile-project-search-path '("~/Code/kid"))
 
 (use-package! groovy-mode
   :config
